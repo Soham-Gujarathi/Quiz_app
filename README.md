@@ -1,4 +1,4 @@
-# LAP-3_Team-Project_Quiz-App - Risky Quizness
+# QuizSphere
 
 ## Table of Contents
 
@@ -19,9 +19,7 @@ Risky Quizness is an online quiz game that you can play with your friends. No ne
     2. Realtime multiplayer sessions for up to 4 players.
     3. See what your opponents' answers at the end of each question.
 
-## Live Demo:
 
-[*Risky Quizness*](https://risky-quizness.netlify.app/)
 
 ## Development Notes
 
@@ -33,19 +31,4 @@ Risky Quizness is an online quiz game that you can play with your friends. No ne
     - Socket.IO
     - Questions from the Open Trivia DB API
 
-Risky Quizness was created in July 2022 for a training academy in full stack development. 
-
-### Original Contributors:
-
-- [*BenTidball*](https://github.com/BenTidball/) - Sockets.IO integration (Server and Client)
-
-- [*Tari38*](https://github.com/Tari38/) - Visual design, CSS Styling, and General Interface
-
-- [*CrookedTimber*](https://github.com/CrookedTimber/) - Front End: Game logic and Components
-
-## Contact the repo owner
-
-GitHub Profile: [*CrookedTimber*](https://github.com/CrookedTimber/)
-Name: Edgar René Ruiz López
-Email: [edgarrruizl@gmail.com](edgarrruizl@gmail.com)
 
