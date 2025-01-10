@@ -1,0 +1,27 @@
+footer {
+    background-color: #6D6EE6;
+    bottom: 0;
+    color: #fff;
+    font-size: small;
+    margin-bottom: 0;
+    padding: 10px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+a {
+    color: yellow;
+}
+
+.fa-icon {
+    font-size: 1.8rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+@media only screen and (max-width: 400px) {
+    footer {
+        visibility: hidden;
+    }
+}
